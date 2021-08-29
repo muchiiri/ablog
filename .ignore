@@ -1,0 +1,5 @@
+#ablog directory
+ablog/
+
+#db
+db.sqlite3
